@@ -1,1 +1,4 @@
 # dataandalgorithm
+
+
+www.patika.dev
